@@ -26,7 +26,7 @@ public class MainWorkerSpyFolder {
  
         while (true)
         {
-            System.out.println("Attente en ligne...");
+            System.out.println("Attente en ligne, je ne fait rien...");
             Thread.sleep(5000); //toutes les 5 secondes
         }
         
